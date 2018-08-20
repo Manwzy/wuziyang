@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: ""
 keyword: ""
-url: "https://manwzy.github.io/wuziyang/"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://manwzy.github.io/"              # your host, for absolute URL
+baseurl: "/wuziyang"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
