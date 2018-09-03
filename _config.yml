@@ -47,14 +47,14 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: 'mu-xi-chai-xi'
+disqus_username: 'muchai'
 comments: true
 
 # Analytics settings
 # Baidu Analytics
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-124606720-1'            # Format: UA-xxxxxx-xx
 ga_domain: https://manwzy.github.io/wuziyang/
 
 
@@ -75,7 +75,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
+        title: "muchai Blog",
         href: "https://manwzy.github.io/wuziyang/"
     },{
         title: "Foo",
